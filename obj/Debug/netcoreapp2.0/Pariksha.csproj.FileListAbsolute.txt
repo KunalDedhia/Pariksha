@@ -1,0 +1,11 @@
+E:\Projects\Pariksha\Pariksha\bin\Debug\netcoreapp2.0\Pariksha.deps.json
+E:\Projects\Pariksha\Pariksha\bin\Debug\netcoreapp2.0\Pariksha.runtimeconfig.json
+E:\Projects\Pariksha\Pariksha\bin\Debug\netcoreapp2.0\Pariksha.runtimeconfig.dev.json
+E:\Projects\Pariksha\Pariksha\bin\Debug\netcoreapp2.0\Pariksha.dll
+E:\Projects\Pariksha\Pariksha\bin\Debug\netcoreapp2.0\Pariksha.pdb
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.csprojResolveAssemblyReference.cache
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.csproj.CoreCompileInputs.cache
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.AssemblyInfoInputs.cache
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.AssemblyInfo.cs
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.dll
+E:\Projects\Pariksha\Pariksha\obj\Debug\netcoreapp2.0\Pariksha.pdb
